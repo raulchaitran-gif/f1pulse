@@ -1,0 +1,5 @@
+{
+  "name": "F1 Pulse 2026",
+  "description": "A high-performance dashboard for the 2026 Formula 1 World Championship, featuring live schedules, standings, and race insights.",
+  "requestFramePermissions": ["geolocation"]
+}
