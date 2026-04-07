@@ -9,8 +9,8 @@
   --color-f1-black: #050505;
   --color-f1-gray: #1a1a1a;
   
-  --shadow-neon: 0 0 15px rgba(255, 0, 60, 0.4);
-  --shadow-neon-strong: 0 0 25px rgba(255, 0, 60, 0.6);
+  --shadow-neon: 0 4px 20px rgba(0, 0, 0, 0.8), 0 0 15px rgba(255, 0, 60, 0.3);
+  --shadow-neon-strong: 0 4px 30px rgba(0, 0, 0, 0.9), 0 0 25px rgba(255, 0, 60, 0.5);
 }
 
 @layer utilities {

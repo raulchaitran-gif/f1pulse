@@ -46,7 +46,7 @@ export default function App() {
       {/* Navigation */}
       <nav className={cn(
         "fixed top-0 left-0 right-0 z-50 transition-all duration-500 px-6 py-4 flex items-center justify-between",
-        scrolled ? "bg-f1-black/90 backdrop-blur-xl border-b border-f1-red/20 py-3 shadow-neon" : "bg-transparent"
+        scrolled ? "bg-f1-black/95 backdrop-blur-2xl border-b border-f1-red/40 py-3 shadow-neon" : "bg-transparent"
       )}>
         <div className="flex items-center gap-2">
           <div className="w-8 h-8 bg-f1-red rounded-sm flex items-center justify-center transform -skew-x-12 shadow-neon-strong">
